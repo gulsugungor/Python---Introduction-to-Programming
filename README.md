@@ -2,10 +2,10 @@
 Basic projects with Python
 
 For Sudoku Solver:
-->Run it in the terminal, take the input and output file as the arguments.
-->Input file consists of the rows of the sudoku game. Empty cells represtented as 0s.
-->After running the code, output file gives the step by step solution.
-
+->Run it in the terminal, take the input and output file as the arguments.\n
+->Input file consists of the rows of the sudoku game. Empty cells represtented as 0s.\n
+->After running the code, output file gives the step by step solution.\n
+\n
 For Number Pop Game:
 ->Run it in the terminal, take the input file as an argument.
 ->Find the neighbors with the same number and the program will take the coordinates as the user input.
